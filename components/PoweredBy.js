@@ -8,10 +8,10 @@ export default function PoweredBy(props) {
   return (
     <div className={`inline text-sm font-serif ${props.className || ''}`}>
       <span className='mr-1'>Powered by</span>
-      <a
-        href='https://github.com/tangly1024/NotionNext'
+     © 2022–2025 <a
+        href='https://blackcatfilm.cc'
         className='underline justify-start'>
-        NotionNext {siteConfig('VERSION')}
+        Blackcatfilm 黑猫Emby媒体库
       </a>
       .
     </div>
