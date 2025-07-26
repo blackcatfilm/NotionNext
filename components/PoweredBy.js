@@ -10,7 +10,7 @@ export default function PoweredBy(props) {
       <span className='mr-1'>Powered by</span>
       <a
         href='https://blackcatfilm.cc'
-        className='underline justify-start'>
+        className='underline justify-start' target='_blank'>
         黑猫Emby媒体库
       </a>
       .
