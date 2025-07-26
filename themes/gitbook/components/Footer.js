@@ -53,7 +53,7 @@ const Footer = ({ siteInfo }) => {
       Powered By{' '}
         <a
           href='https://blackcatfilm.cc'
-          className='underline text-gray-500 dark:text-gray-300' href='_blank'>
+          className='underline text-gray-500 dark:text-gray-300' target='_blank'>
           黑猫Emby媒体库
         </a>
       </div>
