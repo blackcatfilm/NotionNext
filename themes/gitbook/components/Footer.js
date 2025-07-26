@@ -54,7 +54,7 @@ const Footer = ({ siteInfo }) => {
         <a
           href='https://blackcatfilm.cc'
           className='underline text-gray-500 dark:text-gray-300'>
-          Blackcatfilm 黑猫Emby媒体库
+          黑猫Emby媒体库
         </a>
       </div>
       {/* SEO title */}
