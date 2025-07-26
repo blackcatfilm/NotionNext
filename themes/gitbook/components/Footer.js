@@ -50,7 +50,7 @@ const Footer = ({ siteInfo }) => {
         <span className='px-1 busuanzi_value_site_uv'> </span>{' '}
       </span>
       <div className='text-xs font-serif'>
-      © 2022–2025 Powered By{' '}
+      Powered By{' '}
         <a
           href='https://blackcatfilm.cc'
           className='underline text-gray-500 dark:text-gray-300'>
