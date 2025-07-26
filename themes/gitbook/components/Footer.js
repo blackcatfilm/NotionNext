@@ -50,11 +50,11 @@ const Footer = ({ siteInfo }) => {
         <span className='px-1 busuanzi_value_site_uv'> </span>{' '}
       </span>
       <div className='text-xs font-serif'>
-        Powered By{' '}
+      © 2022–2025 Powered By{' '}
         <a
-          href='https://github.com/tangly1024/NotionNext'
+          href='https://blackcatfilm.cc'
           className='underline text-gray-500 dark:text-gray-300'>
-          NotionNext {siteConfig('VERSION')}
+          Blackcatfilm 黑猫Emby媒体库
         </a>
       </div>
       {/* SEO title */}
